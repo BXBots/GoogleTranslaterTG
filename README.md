@@ -30,6 +30,9 @@ TOKEN - Get bot token from @BotFather
 API_ID - From my.telegram.org or @MT_MyTelegramOrg_Bot
 API_HASH - From my.telegram.org or @MT_MyTelegramOrg_Bot
 ```
+## Demo Bot
+
+[![Join Channel !](https://badgen.net/badge/🤖%20Demo%20/Bot/Black)](https://telegram.dog/MT_GoogleTranslater_BoT)
 
 ## Deploy To Heruku
 

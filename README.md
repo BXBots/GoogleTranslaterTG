@@ -47,4 +47,4 @@ Do Fork And Star The Repository If You Liked It.
 
 ## YouTube Channel
 
-[![YouTube](https://badgen.net/badge/Subscribe%20My%20%3F/Youtube Channel/yellow?icon=github)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+[![YouTube](https://badgen.net/badge/Subscribe%20My%20YouTube%3F/Channel/yellow?icon=github)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)

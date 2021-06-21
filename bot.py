@@ -35,10 +35,10 @@ def start(client, message):
             message.reply_text(text =f"🙋‍♂️ Hello **{message.from_user.first_name }\n\n**I am simple Google Translater Bot**\n\n`I can translate any language to you selected language`\n\nMore details /help",reply_to_message_id = message.message_id , parse_mode="markdown", reply_markup=InlineKeyboardMarkup(
             [
                 [
-                   InlineKeyboardButton("🗣️Group", url="https://t.me/Mo_Tech_Group"),
-                   InlineKeyboardButton("🤖Bot List", url="https://t.me/Mo_Tech_YT/176")
+                   InlineKeyboardButton("📫 Updates", url="https://t.me/BX_Botz"),
+                   InlineKeyboardButton("🤖 Support", url="https://t.me/BXSupport")
                    ],[
-                   InlineKeyboardButton("👨‍💻Source", url="https://github.com/Mo-Tech-MRK-YT/GoogleTranslater"),
+                   InlineKeyboardButton("", url="https://github.com/Mo-Tech-MRK-YT/GoogleTranslater"),
                    InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
                 ]
            ] 

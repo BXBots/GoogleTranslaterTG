@@ -14,22 +14,8 @@ A simple Google Tranlator Bot. Languages :
 TOKEN - Get bot token from @BotFather
 API_ID - From my.telegram.org 
 
-API_HASH - From my.telegram.org or @MT_MyTelegramOrg_Bot
+API_HASH - From my.telegram.org
 
 ## Deploy To Heruku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBots/GoogleTranslaterTG)
-
-## Support
-
-Join [Our Telegram Group](https://telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel For Updates](https://telegram.dog/Mo_Tech_YT).
-[Report Bugs](https://telegram.dog/Mo_Tech_Group), Give Feature Requests There..
-Do Fork And Star The Repository If You Liked It.
-
-## Credit
-
-[Mo Tech YT](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-## YouTube Channel
-
-[![YouTube](https://badgen.net/badge/Subscribe%20My%20YouTube%3F/Channel/yellow?icon=github)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)

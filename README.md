@@ -8,35 +8,17 @@ A simple Google Tranlator Bot. Languages :
 ```
 /start - Start
 /help - Available Languages
-```
-### Fork, Star And Deploy 
-</a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mo-Tech-MRK-YT/GoogleTranslater/stargazers">
-    <img src="https://img.shields.io/github/stars/Mo-Tech-MRK-YT/GoogleTranslater?style=social">
-
-  </a>
-  
-  <a href="https://github.com/Mo-Tech-MRK-YT/GoogleTranslater/fork">
-    <img src="https://img.shields.io/github/forks/Mo-Tech-MRK-YT/GoogleTranslater?label=Fork&style=social">
-
-  </a>  
-</p>
-
+`
 ## Config
 ```
 TOKEN - Get bot token from @BotFather
-API_ID - From my.telegram.org or @MT_MyTelegramOrg_Bot
-API_HASH - From my.telegram.org or @MT_MyTelegramOrg_Bot
-```
-## Demo Bot
+API_ID - From my.telegram.org 
 
-[![Join Channel !](https://badgen.net/badge/🤖%20Demo%20/Bot/Black)](https://telegram.dog/MT_GoogleTranslater_BoT)
+API_HASH - From my.telegram.org or @MT_MyTelegramOrg_Bot
 
 ## Deploy To Heruku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy=https://github.com/BXBots/GoogleTranslaterTG)
 
 ## Support
 

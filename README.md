@@ -11,4 +11,5 @@ A simple Google Tranlator Bot. Languages :
 
 ## Deploy To Heroku
 
+
 [Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBots/GoogleTranslaterTG)

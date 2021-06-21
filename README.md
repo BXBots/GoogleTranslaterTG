@@ -7,7 +7,7 @@ A simple Google Tranlator Bot. Languages :
 ## Bot Command's
 ```
 /start - Start
-/help - Available Languages
+/help - Available Languages.
 
 ## Deploy To Heroku
 [Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBots/GoogleTranslaterTG)

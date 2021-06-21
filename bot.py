@@ -38,8 +38,8 @@ def start(client, message):
                    InlineKeyboardButton("📫 Updates", url="https://t.me/BX_Botz"),
                    InlineKeyboardButton("🤖 Support", url="https://t.me/BXSupport")
                    ],[
-                   InlineKeyboardButton("", url="https://github.com/Mo-Tech-MRK-YT/GoogleTranslater"),
-                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                   InlineKeyboardButton('💡 Help', callback_data='help'),
+                   InlineKeyboardButton("GitHub", url="Https://GitHub.com/BXBotz")
                 ]
            ] 
         ) )
@@ -49,11 +49,11 @@ def help(client, message):
             message.reply_text(text =f"🙋‍♂️ Hello **{message.from_user.first_name }\n\n**I am simple Google Translater Bot**\n\n**Available Language**\n\n|| Hindi || Kannada || മലയാളം ||\n\n|| Tamil || Telugu || English ||\n\n|| Urdu || Punjabi || Spanish ||\n\n|| Korean || Japanese || Chinese ||\n\n|| Greek || Italian || Nepali ||",reply_to_message_id = message.message_id , parse_mode="markdown", reply_markup=InlineKeyboardMarkup(
             [
                 [
-                   InlineKeyboardButton("🗣️Group", url="https://t.me/Mo_Tech_Group"),
-                   InlineKeyboardButton("🤖Bot List", url="https://t.me/Mo_Tech_YT/176")
+                   InlineKeyboardButton("📫 Updates", url="https://t.me/Bx_Botz"),
+                   InlineKeyboardButton("🤖 Support", url="https://t.me/BxSupport")
                    ],[
-                   InlineKeyboardButton("👨‍💻Source", url="https://github.com/Mo-Tech-MRK-YT/GoogleTranslater"),
-                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ")
+                   InlineKeyboardButton('💡 Help', callback_data='help'),
+                   InlineKeyboardButton("🚦 GitHub", url="Https://GitHub.com/BXBotz")
                 ]
            ] 
         ) )

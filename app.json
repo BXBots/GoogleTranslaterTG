@@ -7,7 +7,7 @@
         "pyrogram",
         "telegram bot"
     ]
-    "repository": "https://github.com/BXBots/GoogleTranslaterTG",
+    "repository ": "https://github.com/BXBots/GoogleTranslaterTG",
     "env": {
         "TOKEN": {
             "description": "Your Bot token from @Botfather"

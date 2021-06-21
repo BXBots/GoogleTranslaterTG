@@ -19,10 +19,10 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 # Get a bot token from botfather
 TOKEN = os.environ.get("TOKEN", "")
 
-# Get from my.telegram.org (or @MT_MyTelegramOrg_Bot)
-APP_ID = int(os.environ.get("APP_ID", ""))
+# Get from my.telegram.org
+APP_ID = int(os.environ.get("APP_ID", "")
 
-# Get from my.telegram.org (or @MT_MyTelegramOrg_Bot)
+# Get from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "")
 motech = Client(
         "transleter",
@@ -44,7 +44,7 @@ def start(client, message):
            ] 
         ) )
 
-@bx_botz.on_message(filters.command(['help']))
+@motech.on_message(filters.command(['help']))
 def help(client, message):
             message.reply_text(text =f"🙋‍♂️ Hello **{message.from_user.first_name }\n\n**I am simple Google Translater Bot**\n\n**Available Language**\n\n|| Hindi || Kannada || മലയാളം ||\n\n|| Tamil || Telugu || English ||\n\n|| Urdu || Punjabi || Spanish ||\n\n|| Korean || Japanese || Chinese ||\n\n|| Greek || Italian || Nepali ||",reply_to_message_id = message.message_id , parse_mode="markdown", reply_markup=InlineKeyboardMarkup(
             [

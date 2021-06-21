@@ -1,22 +1,22 @@
 {
     "name": "Google Translater",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.jpg",
-    "description": "Google Translater Bot © @Mo_Tech_YT",
+    "logo": "https://telegra.ph/file/ffa6e9eba9e83b1e036bc.jpg",
+    "description": "Google Translater Bot © @BX_Botz",
     "keywords": [
         "Google Translater",
         "pyrogram",
         "telegram bot"
-    ],
-    "repository": "https://github.com/Mo-Tech-MRK-YT/GoogleTranslater",
+    ]
+    "repository": "https://github.com/BXBots/GoogleTranslaterTG",
     "env": {
         "TOKEN": {
             "description": "Your Bot token from @Botfather"
         },
         "APP_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps or @MT_MyTelegramOrg_Bot"
+            "description": "Your API_ID from https://my.telegram.org/apps"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps or @MT_MyTelegramOrg_Bot"
+            "description": "Your API_HASH from https://my.telegram.org/apps"
         }
     },
     "buildpacks": [
